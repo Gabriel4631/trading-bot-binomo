@@ -1,0 +1,45 @@
+Date: 15/7/2025
+Time: 15:39
+Phone Number: +541123961619
+Message: 📊 Nuevo ciclo iniciado. Capital: $52609088. Meta: $200000.
+--------------------
+Date: 15/7/2025
+Time: 15:41
+Phone Number: +541123961619
+Message: ✅ Ronda 1: Ganancia $8000. Saldo: $52617088.
+--------------------
+Date: 15/7/2025
+Time: 15:43
+Phone Number: +541123961619
+Message: 🎉 ¡Meta total alcanzada: $1.000.000! El bot se detiene.
+--------------------
+Date: 15/7/2025
+Time: 16:16
+Phone Number: +541123961619
+Message: 📊 Nuevo ciclo iniciado. Capital: $52617088. Meta: $200000.
+--------------------
+Date: 15/7/2025
+Time: 16:18
+Phone Number: +541123961619
+Message: ✅ Ronda 1: Ganancia $8000. Saldo: $52625088.
+--------------------
+Date: 15/7/2025
+Time: 16:20
+Phone Number: +541123961619
+Message: 🎉 ¡Meta total alcanzada: $1.000.000! El bot se detiene.
+--------------------
+Date: 15/7/2025
+Time: 16:22
+Phone Number: +541123961619
+Message: ⏹ Bot detenido manualmente.
+--------------------
+Date: 15/7/2025
+Time: 16:37
+Phone Number: +541123961619
+Message: 📊 Nuevo ciclo iniciado. Capital: $52625088. Meta: $200000.
+--------------------
+Date: 15/7/2025
+Time: 17:10
+Phone Number: +541123961619
+Message: 🎯 Meta alcanzada: $213696. Reiniciando ciclo.
+--------------------
